@@ -1,7 +1,7 @@
 # React Ecommerce Infinite Scroll Store Demo
 A react shop demo listing all the products using infinite scroll
 
-##Demo
+## Demo
 <img src="demo/screenshot.png" height="400" />
 
 ## Run
